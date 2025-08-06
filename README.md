@@ -45,7 +45,6 @@
 ### 🧪 Testing & Automation
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-BE185D?style=flat-square&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
