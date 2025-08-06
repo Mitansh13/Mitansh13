@@ -16,7 +16,7 @@
 | **Cloud & DevOps**     | Built RESTful APIs with Azure Functions; designed CI/CD workflows and version control systems          | Cricket Coaching App                      |
 | **Machine Learning**   | Created time series forecasting and classification models using Python ML libraries                    | Crime Trend Forecasting, DiagnoWise       |
 | **Full Stack Dev**     | Developed React.js responsive apps, Node.js backends, and integrated third-party APIs                   | MusicFest App, BecomeBetter                |
-| **Data Engineering**   | Cleaned and transformed large datasets using SQL and Python; designed interactive data visualizations  | Crime Trend Forecasting                    |
+| **Data Engineering**   | Cleaned and transformed large datasets using SQL and Python; designed interactive data visualizations  | Crime Trend Forecasting, Laptop Price Predictor                    |
 
 ---
 
