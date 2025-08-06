@@ -62,7 +62,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mitansh%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mitansh-sharma-b23356202)
 [![GitHub](https://img.shields.io/badge/GitHub-Mitansh13-black?style=for-the-badge&logo=github)](https://github.com/Mitansh13)
-[![Email](https://img.shields.io/badge/Email-sharm7t1@uwindsor.ca-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharm7t1@uwindsor.ca)
+[![Email](https://img.shields.io/badge/Email-sharm7t1@uwindsor.ca-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitanshsharma20@gmail.com)
 
 ---
 
