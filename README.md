@@ -12,7 +12,7 @@
 
 | Skill Area           | Expertise Highlights                                                                                   | Related Projects                          |
 |---------------------|------------------------------------------------------------------------------------------------------|------------------------------------------|
-| **Automation Testing** | Developed Selenium & PyTest automation scripts integrated with Azure DevOps CI/CD pipelines            | Cricket Coaching App, ScrapeMobile        |
+| **Automation Testing** | Developed Selenium & PyTest automation scripts integrated with Azure DevOps CI/CD pipelines            | ScrapeMobile        |
 | **Cloud & DevOps**     | Built RESTful APIs with Azure Functions; designed CI/CD workflows and version control systems          | Cricket Coaching App                      |
 | **Machine Learning**   | Created time series forecasting and classification models using Python ML libraries                    | Crime Trend Forecasting, DiagnoWise       |
 | **Full Stack Dev**     | Developed React.js responsive apps, Node.js backends, and integrated third-party APIs                   | MusicFest App, BecomeBetter                |
