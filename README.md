@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Master of Applied Computing @ University of Windsor<br>
-  💼 Seeking Fall 2025 Co-op Roles | QA Automation • DevOps • Data Science • Full Stack Development<br>
+  💼 Seeking Full Time Roles | QA Automation • DevOps • Data Science • Full Stack Development<br>
   🌟 Passionate about building efficient, scalable solutions through code and cloud technologies
 </p>
 
